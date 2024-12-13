@@ -1,2 +1,2 @@
 # 10-Acadamy
-Set of assesment from 10 academy 3 month training
+Set of assesment from 10 academy 3 month training by Kifya
